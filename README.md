@@ -5,7 +5,7 @@
 <a href="https://github.com/Akhiel1509">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7dd3fc&center=true&vCenter=true&width=760&lines=Salesforce+Consultant+%7C+Apex+%26+LWC;8x+Salesforce+Certified;Multi-Agent+AI+Pipeline+for+Salesforce+DevOps;AI+Resume+Screening+with+Claude+API;Open+to+Salesforce+%2B+Python+roles" alt="Typing SVG" />
 </a>
-
+<img src="Gemini_Generated_Image_ru5ysaru5ysaru5y.jpeg" width="300" alt="Akhiel" />
 <br/><br/>
 
 <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Salesforce%20%2B%20Python-7dd3fc?style=for-the-badge&labelColor=0f172a" alt="Open to work" />
